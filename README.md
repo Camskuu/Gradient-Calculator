@@ -1,1 +1,5 @@
 # Gradient-Calculator
+
+While designing this calculator, I chose the gradient style due to it's visual appeal and relatively simple execution. The calculator fits the gradient theme with its pink/light-blue theme on light mode and its purple/dark-blue theme on dark mode. The number buttons also follow the gradient theme based off what mode is selected. I chose to keep the design simple by using an AppBar, standard ElevatedButton widgets, and a clean layout with rows of buttons. This calculator is fully functional as it includes a toggle between modes, a history text, plus all necessary operators, numbers, and clear/enter buttons. I color coded the buttons to assist users in understanding the interface. All number buttons are neutral, the equals button is green, the backspace button is orange, and the clear button is red. These intuitive design choices allow users to easily tell the difference between the buttons and their uses.
+
+Video Link: https://youtube.com/shorts/Nsv4daiUdS8?feature=share
